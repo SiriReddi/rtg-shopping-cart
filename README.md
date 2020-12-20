@@ -15,7 +15,7 @@ Used the visual studio's IDE .
 Styled with Css3 Sass library.
 
 Using this application, the user can add and remove the furniture products to the cart and also can calculate the subtotals, shipping, taxes, and the total amounts.
-
+To add the products to the cart in the shop, hover over the images to click the add to cart button on the images.
 The elements and the subtotal, taxes and the shipping cost applied in the cart:
 
 PRODUCT NAME
